@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-더 많은 정보를  보시려면[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+더 많은 정보를  보시려면 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
