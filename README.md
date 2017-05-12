@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-참고자료1 : https://github.com/ahhn/oss/blob/master/resources/test.html
+참고자료1 : (https://github.com/ahhn/oss/blob/master/resources/test.html)
 
 You can use the [editor on GitHub](https://github.com/ahhn/ahhn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
