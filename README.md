@@ -4,7 +4,7 @@
 
 ### Markdown 소개
 
-Markdown 은 깃허브에서 글을 작성할 때 쉽게 사용할 수 있는 문법입니다. 아래의 규칙을 익혀 보세요.
+Markdown 은 깃허브에서 글(OOO.md)을 작성할 때 쉽게 사용할 수 있는 문법입니다. 아래의 규칙을 익혀 보세요.
 
 ```markdown
 Syntax highlighted code block
