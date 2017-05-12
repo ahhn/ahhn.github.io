@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 안대진의 깃허브 홈페이지입니다.
+- [OSS 강좌](https://ahhn.github.io/oss)
 
 ### Markdown 소개
 
