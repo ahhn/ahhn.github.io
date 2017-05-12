@@ -1,14 +1,10 @@
 ## Welcome to GitHub Pages
 
-참고자료1 (https://github.com/ahhn/oss/blob/master/resources/test.html)
+안대진의 깃허브 홈페이지입니다.
 
-You can use the [editor on GitHub](https://github.com/ahhn/ahhn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Markdown 소개
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 은 깃허브에서 글을 작성할 때 쉽게 사용할 수 있는 문법입니다. 아래의 규칙을 익혀 보세요.
 
 ```markdown
 Syntax highlighted code block
@@ -28,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+더 많은 정보를  보시려면[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
