@@ -4,6 +4,7 @@
 - [오픈소스로 아카이브 만들기](https://ahhn.github.io/oss)  Spring, 2017, HUFS
 - [오픈소스로 아카이브 만들기 Omeka](https://ahhn.github.io/2018Omeka)  Fall, 2018, HUFS (전자기록의 소프트웨어 활용/디지털 포렌식)
 - [Omeka를 이용한 히스토리 큐레이션](https://ahhn.github.io/2018Omeka2)  Fall, 2018, HUFS (서양사와 아카이브 컨텐츠)
+- [Omeka로 디지털 아카이브 만들기](https://ahhn.github.io/2019Omeka)  Spring, 2019, Hansung Univ (지역연계 프로젝트)
 
 
 
