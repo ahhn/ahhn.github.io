@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-안대진의 깃허브 홈페이지입니다.
+안대진의 깃허브 홈페이지입니다. <br>
+오픈소스로 디지털 아카이브 만드는 교육프로그램을 지속적으로 공유합니다. <br>
+문의는 이메일로 보내주세요. djahhn@gmail.com <br>
 - [오픈소스로 아카이브 만들기](https://ahhn.github.io/oss)  Spring 2017, HUFS
 - [오픈소스로 아카이브 만들기 Omeka](https://ahhn.github.io/2018Omeka)  Fall 2018, HUFS (전자기록의 소프트웨어 활용/디지털 포렌식)
 - [Omeka를 이용한 히스토리 큐레이션](https://ahhn.github.io/2018Omeka2)  Fall 2018, HUFS (서양사와 아카이브 컨텐츠)
@@ -19,4 +21,4 @@
 
 ### Instructor information
  
-[Daejin Ahn](https://www.instagram.com/djahhn/) is an artist and enterpreneur based in Seoul. Ahn founded the [archivelab](http://archivelab.co.kr) in 2016, where he continues to experiment and explore open source software based digital archives.
+[Daejin Ahn](https://www.instagram.com/djahhn/) is an artist and enterpreneur based in Seoul. Ahn founded the [archivelab](http://archivelab.co.kr) in 2016, where he continues to experiment and explore open source software based digital archives. 
