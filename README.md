@@ -11,6 +11,8 @@
 - [Omeka 튜토리얼](https://ahhn.github.io/2020oss)  Spring 2020, 한성대 (지역연계 프로젝트)
 - [디지털 아카이빙 툴킷 워크숍](https://ahhn.github.io/2020imsi)  Summer 2020, 임시공간
 - [OSS를 활용한 디지털 아카이브 만들기](https://ahhn.github.io/2020seoul)  Fall 2020, 서울기록원
+- [Omeka 튜토리얼](https://ahhn.github.io/2021oss)  Spring 2021, 한성대 (지역연계 프로젝트)
+- [Omeka 튜토리얼](https://ahhn.github.io/2022oss)  Spring 2022, 한성대 (지역연계 프로젝트)
 - [오픈소스로 아카이브 만들기](https://archivelab.co.kr/afb6f28e3fa64de1b6fc0f39a5e8ed00) Summer 2021, 서울기록원
 
 
