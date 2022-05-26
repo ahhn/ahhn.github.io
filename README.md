@@ -13,9 +13,9 @@
 - [OSS를 활용한 디지털 아카이브 만들기](https://ahhn.github.io/2020seoul)  Fall 2020, 서울기록원
 - [Omeka 튜토리얼](https://ahhn.github.io/2021oss)  Spring 2021, 한성대 (지역연계 프로젝트)
 - [Omeka 튜토리얼](https://ahhn.github.io/2022oss)  Spring 2022, 한성대 (지역연계 프로젝트)
+- [디지털 아카이브의 이해와 활용](https://achieved-pamphlet-53f.notion.site/711be31ed3a348818f4f6d9fcac00c16) Summer 2021, 연세대학교
 - [오픈소스로 아카이브 만들기 2021](https://archivelab.co.kr/afb6f28e3fa64de1b6fc0f39a5e8ed00) Summer 2021, 서울기록원
 - [오픈소스로 아카이브 만들기 2022](https://archivelab.co.kr/2022-4230ba5913f247ec8362a960a72010c7) Spring 2022, 서울기록원
-
 
 
 
